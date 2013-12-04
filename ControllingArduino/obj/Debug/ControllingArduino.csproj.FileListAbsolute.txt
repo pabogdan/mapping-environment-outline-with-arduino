@@ -1,0 +1,9 @@
+e:\petrut\documents\visual studio 2012\Projects\ControllingArduino\ControllingArduino\bin\Debug\ControllingArduino.exe
+e:\petrut\documents\visual studio 2012\Projects\ControllingArduino\ControllingArduino\bin\Debug\ControllingArduino.pdb
+e:\petrut\documents\visual studio 2012\Projects\ControllingArduino\ControllingArduino\obj\Debug\ControllingArduino.csprojResolveAssemblyReference.cache
+e:\petrut\documents\visual studio 2012\Projects\ControllingArduino\ControllingArduino\obj\Debug\ControllingArduino.Form1.resources
+e:\petrut\documents\visual studio 2012\Projects\ControllingArduino\ControllingArduino\obj\Debug\ControllingArduino.Properties.Resources.resources
+e:\petrut\documents\visual studio 2012\Projects\ControllingArduino\ControllingArduino\obj\Debug\ControllingArduino.csproj.GenerateResource.Cache
+e:\petrut\documents\visual studio 2012\Projects\ControllingArduino\ControllingArduino\obj\Debug\ControllingArduino.exe
+e:\petrut\documents\visual studio 2012\Projects\ControllingArduino\ControllingArduino\obj\Debug\ControllingArduino.pdb
+e:\petrut\documents\visual studio 2012\Projects\ControllingArduino\ControllingArduino\obj\Debug\ControllingArduino.graphViewForm.resources
